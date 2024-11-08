@@ -90,6 +90,7 @@ class Timezone {
 	    '(UTC+03:30) Tehran' => 'Asia/Tehran',
 	    '(UTC+04:00) Abu Dhabi' => 'Asia/Muscat',
 	    '(UTC+04:00) Baku' => 'Asia/Baku',	    
+	    '(UTC+04:00) Dubai' => 'Asia/Dubai',	    
 	    '(UTC+04:00) Muscat' => 'Asia/Muscat',	    
 	    '(UTC+04:00) Tbilisi' => 'Asia/Tbilisi',
 	    '(UTC+04:00) Yerevan' => 'Asia/Yerevan',
